@@ -1,0 +1,6 @@
+{
+  "name": "DAYMARK",
+  "description": "Personal self-improvement app to track your journey deadline, daily habits, tasks, and evening reflections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
